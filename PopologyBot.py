@@ -28,7 +28,7 @@ def main():
     popology_to_tower = get_tower_categories()
 
     for comment in subreddit.comments(limit=250):
-        match = re.findall(r'(?<=\[\[).+?(?=\]\])', comment.body)
+        match = re.findall(r'(?<=\\?\[\\?\[).+?(?=\\?\]\\?\])', comment.body)
 
         if match:
             process_comment(comment, match)

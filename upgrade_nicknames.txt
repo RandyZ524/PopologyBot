@@ -1,967 +1,1181 @@
-Dart Monkey
-    300
-        pult
-        spikeopult
-        spike-o-pult
-        catapult
-    400
-        jug
-        jugg
-        jugger
-        juggernaut
-    500
-        uj
-        ujug
-        u-jug
-        ujugg
-        u-jugg
-        ultrajug
-        ultra-jug
-        ultrajugg
-        ultra-jugg
-        ultrajugger
-        ultra-jugger
-        ultrajuggernaut
-        ultra juggernaut
-        ultra-juggernaut
-    030
-        trip dart
-        triple dart
-        trip shot
-        triple shot
-    040
-        fc
-        smfc
-        fan club
-        super monkey fc
-        super monkey fan club
-    050
-        pmfc
-        plasma fc
-        plasma fan club
-        plasma monkey fc
-        plasma monkey fan club
-    002
-        camo dart
-        enhanced eyesight
-    003
-        xbow
-        crossbow
-    004
-        sharpshooter
-        sharp-shooter
-    005
-        xbm
-        cbm
-        xb master
-        cb master
-        xbow master
-        crossbow master
-Boomerang Monkey
-    200
-        glaive
-        glaives
-    300
-        rico
-        ricochet
-        glaive rico
-        glaive ricochet
-    400
-        moar
-        m.o.a.r
-        m.o.a.r.
-        moar glaive
-        moar glaives
-        m.o.a.r glaive
-        m.o.a.r glaives
-        m.o.a.r. glaive
-        m.o.a.r. glaives
-    500
-        gl
-        glord
-        glaive lord
-Bomb Shooter
-    400
-        impact
-        bloon impact
-    500
-        crush
-        crunch
-        bloon crush
-        bloon crunch
-    030
-        mauler
-        moab mauler
-        m.o.a.b. mauler
-        gold shark
-        golden shark
-        yellow shark
-    040
-        assassin
-        moab assassin
-        m.o.a.b.assassin
-    050
-        elim
-        eliminator
-        moab elim
-        m.o.a.b. elim
-        moab eliminator
-        m.o.a.b. eliminator
-    002
-        frag
-        frags
-    003
-        cluster
-        cluster bomb
-        cluster bombs
-    004
-        recurse
-        recursive
-        recursive bomb
-        recursive bombs
-        recursive cluster
-        recursive clusters
-    005
-        blitz
-        bomb blitz
-Tack Shooter
-    400
-        rof
-        r.o.f.
-        ring of fire
-        fire ring
-    500
-        ir
-        i.r.
-        inferno
-        inferno ring
-    030
-        blades
-        blade shooter
-    040
-        mael
-        maelstrom
-        maelstorm
-        blade mael
-        blade maelstrom
-        blade maelstorm
-    050
-        smael
-        s-mael
-        smaelstrom
-        s-maelstrom
-        smaelstorm
-        s-maelstorm
-        super mael
-        super maelstrom
-        super maelstorm
-    003
-        sprayer
-        tack sprayer
-    004
-        overd
-        overdrive
-    005
-        zone
-        tack zone
-        the tack zone
-        dead zone
-        death zone
-Ice Monkey
-    100
-        pfrost
-        p-frost
-        permafrost
-        perma-frost
-    300
-        shard
-        shards
-        ice shards
-    500
-        brittle
-        sbrittle
-        s-brittle
-        super brittle
-    030
-        aw
-        aw man
-        awind
-        arctic wind
-    040
-        snowstorm
-    050
-        az
-        a0
-        absolute zero
-    003
-        cryo
-        ice cannon
-        cryo cannon
-    004
-        icicle
-        icicles
-    005
-        impale
-        ice impale
-        icicle impale
-Glue Gunner
-    200
-        corrosive
-        corrosive glue
-    300
-        dissolver
-        bloon dissolver
-    400
-        liquifier
-        bloon liquifier
-    500
-        solver
-        bloon solver
-        the bloon solver
-    020
-        splatter
-        glue splatter
-    030
-        hose
-        ghose
-        g-hose
-        glue hose
-    040
-        gstrike
-        g-strike
-        glue strike
-    050
-        gstorm
-        g-storm
-        glue storm
-    003
-        moab glue
-        blimp glue
-    004
-        relentless
-        relentless glue
-    005
-        sglue
-        s-glue
-        super glue
-        superglue
-        super-glue
-Sniper Monkey
-    100
-        full metal
-        full metal jacket
-    200
-        large caliber
-        point five oh
-        point five-oh
-    300
-        precision
-        deadly precision
-    400
-        maim
-        maim moab
-        maim m.o.a.b.
-    500
-        cripple
-        cripple moab
-        cripple m.o.a.b
-    010
-        night vision
-        night vision goggles
-        camo sniper
-    030
-        bouncing
-        bouncing bullet
-        bouncing bullets
-    040
-        supply drop
-        cash crate
-    050
-        elite sniper
-        elite target
-        elite targeting
-    003
-        semi
-        semi auto
-        semi-auto
-        semi auto rifle
-        semi-auto rifle
-    040
-        full auto
-        full-auto
-        full auto rifle
-        full-auto rifle
-    005
-        ed
-        e defender
-        e-defender
-        elite defender
-Monkey Sub
-    200
-        intel
-        advanced intel
-        intel range
-    300
-        s&s
-        s and s
-        s-and-s
-        submerge
-        submerge & support
-        submerge and support
-    400
-        reactor
-        reactor sub
-        nuclear reactor
-        suclear sub
-        bloontonium reactor
-    500
-        energizer
-        energizer sub
-    030
-        ballistic
-        ballistic missile
-    040
-        fs
-        fsc
-        first strike
-        first strike capability
-    050
-        pre
-        pre emp
-        pre-emp
-        pre empt
-        pre-empt
-        pre emptive
-        pre-emptive
-        pre emptive strike
-        pre-emptive strike
-    002
-        airburst
-        airburst dart
-        airburst darts
-    003
-        trip gun
-        trip guns
-        triple gun
-        triple guns
-    004
-        ap
-        ap dart
-        ap darts
-        armor piercing
-        armor-piercing
-        armour piercing
-        armour-piercing
-        armor piercing dart
-        armor piercing darts
-        armor-piercing dart
-        armor-piercing darts
-        armour piercing dart
-        armour piercing darts
-        armour-piercing dart
-        armour-piercing darts
-    005
-        scom
-        scomm
-        s-com
-        s-comm
-        sub comm
-        sub-comm
-        sub commander
-Monkey Buccaneer
-    300
-        destroyer
-    400
-        carrier
-        aircraft carrier
-    500
-        flagship
-        flagship carrier
-        carrier flagship
-    010
-        grape
-        grapes
-        grapeshot
-    030
-        cannonship
-    040
-        pirate
-        pirates
-        monkey pirate
-        monkey pirates
-    050
-        plord
-        p-lord
-        pirate lord
-    003
-        merchant
-        merchantman
-        merchantmen
-    004
-        favored
-        flavored
-        favoured
-        favored trade
-        flavored trade
-        favoured trade
-        favored trades
-        flavored trades
-        favoured trades
-    005
-        empire
-        trade empire
-Monkey Ace
-    300
-        fighter
-        fighter ace
-        fighter plane
-        fighter jet
-    400
-        ods
-        dart storm
-        operation dart storm
-        operation: dart storm
-    500
-        shredder
-        sshredder
-        s-shredder
-        sky shredder
-    030
-        bomber
-        bomber ace
-        bomber plane
-    040
-        gz
-        g0
-        ground 0
-        ground zero
-    050
-        tsar
-        tsar bomba
-        tsar bomber
-    003
-        neva
-        neva miss
-        neva-miss
-        neva miss targeting
-        neva-miss targeting
-    004
-        spectre
-    005
-        big plane
-        fortress
-        ffortress
-        f-fortress
-        flying fortress
-Heli Pilot
-    100
-        quad
-        quad dart
-        quad darts
-    200
-        pursuit
-    300
-        razor
-        razer
-        razor rotor
-        razer rotor
-        razor rotors
-        razer rotors
-    400
-        dartship
-        apache dart
-        apache dartship
-    500
-        prime
-        apache prime
-    030
-        downdraft
-    040
-        chinook
-        support chnook
-    050
-        marine
-        marine gang
-        poperation
-        poperations
-        special poperation
-        special poperations
-    003
-        shove
-        moab shove
-        m.o.a.b. shove
-    004
-        defense
-        defence
-        com defense
-        com defence
-        comm defense
-        comm defence
-        comanche defense
-        comanche defence
-        commanche defense
-        commanche defence
-    005
-        comanche
-        com commander
-        comm commander
-        comanche commander
-        commanche commander
-Mortar Monkey
-    400
-        bo4
-        big one
-        the big one
-    500
-        tb1
-        tbo
-        bo5
-        biggest one
-        the biggest one
-    040
-        artillery
-        artillery battery
-        battery
-    050
-        p&a
-        paa
-        pop & awe
-        pop and awe
-    003
-        signal
-        signal flare
-        signal flair
-    004
-        shat
-        shatter
-        shattering
-        shattering shell
-        shattering shells
-    005
-        cin
-        blooncin
-        blooncineration
-Wizard Monkey
-    300
-        mastery
-        arcane master
-        arcane mastery
-    400
-        spike
-        arcane spike
-    500
-        arch
-        archmage
-    020
-        wof
-        w.o.f.
-        wall of fire
-    030
-        dbreath
-        d-breath
-        dragon breath
-        dragons breath
-        dragon’s breath
-    040
-        phoenix
-        summon phoenix
-    050
-        wlp
-        wizard lord
-        wizard lord phoenix
-        caw
-        caw caw
-        2tcaw
-        skybird
-    003
-        shimmer
-    004
-        necro
-        necromancer
-        unpopped army
-        necromancer unpopped army
-        necromancer: unpopped army
-    005
-        pod
-        p.o.d.
-        prince of darkness
-Super Monkey
-    100
-        laser
-        laser vision
-    200
-        plasma super
-        plasma vision
-    300
-        sav
-        avatar
-        savatar
-        sun avatar
-        sun god
-    400
-        temple
-        sun temple
-        temple of the monkey god
-    500
-        tsg
-        vtsg
-        true sun god
-        vengeful true sun god
-    030
-        robo
-        robo monkey
-        robo-monkey
-    040
-        tt
-        tech terror
-        technological terror
-    050
-        anti
-        anti bloon
-        anti-bloon
-        the anti bloon
-        the anti-bloon
-    001
-        knockback
-        knockback super
-    003
-        batman
-        dark knight
-        the dark knight
-        the dark knight rises
-        ben affleck
-        bruce wayne
-    004
-        dc
-        champ
-        dark champ
-    005
-        lotn
-        l.o.t.n.
-        legend
-        legend of the night
-Ninja Monkey
-    400
-        jitsu
-        bloonjitsu
-    500
-        gm
-        gm ninja
-        grandmaster
-        grand-master
-        grandmaster ninja
-        grand-master ninja
-    030
-        shinobi
-        shinobi tactic
-        shinobi tactics
-    040
-        sabo
-        sabotage
-        bloon sabo
-        bloon sabotage
-        sabotage supply lines
-    050
-        gsabo
-        g-sabo
-        grand sabo
-        grand saboteur
-    002
-        caltrop
-        caltrops
-    003
-        flash
-        flash bomb
-        flash bombs
-    004
-        sticky
-        sticky bomb
-        sticky bombs
-    005
-        mb
-        mbomb
-        m-bomb
-        mbomber
-        m-bomber
-        master bomber
+DartMonkey
+	300
+		pult
+		spikeopult
+		spike-o-pult
+		catapult
+	400
+		jug
+		jugg
+		jugger
+		juggernaut
+	500
+		uj
+		u.j
+		u.j.
+		ujug
+		u-jug
+		ujugg
+		u-jugg
+		ultrajug
+		ultra-jug
+		ultrajugg
+		ultra-jugg
+		ultrajugger
+		ultra-jugger
+		ultrajuggernaut
+		ultra-juggernaut
+	030
+		tripdart
+		tripledart
+		tripshot
+		tripleshot
+	040
+		fc
+		f.c
+		f.c.
+		smfc
+		s.m.f.c
+		s.m.f.c.
+		fanclub
+		supermonkeyfc
+		supermonkeyf.c
+		supermonkeyf.c.
+		supermonkeyfanclub
+	050
+		pmfc
+		p.m.f.c
+		p.m.f.c.
+		plasmafc
+		plasmaf.c
+		plasmaf.c.
+		plasmafanclub
+		plasmamonkeyfc
+		plasmamonkeyf.c
+		plasmamonkeyf.c.
+		plasmamonkeyfanclub
+	002
+		camodart
+		enhancedeyesight
+	003
+		xbow
+		crossbow
+	004
+		sharpshooter
+		sharp-shooter
+	005
+		xbm
+		x.b.m
+		x.b.m.
+		cbm
+		c.b.m
+		c.b.m.
+		xbmaster
+		x.bmaster
+		x.b.master
+		cbmaster
+		c.bmaster
+		c.b.master
+		xbowmaster
+		crossbowmaster
+BoomerangMonkey
+	200
+		glaive
+		glaives
+	300
+		rico
+		ricochet
+		glaiverico
+		glaivericochet
+	400
+		moar
+		m.o.a.r
+		m.o.a.r.
+		moarglaive
+		moarglaives
+		m.o.a.rglaive
+		m.o.a.rglaives
+		m.o.a.r.glaive
+		m.o.a.r.glaives
+	500
+		gl
+		g.l
+		g.l.
+		glord
+		glaivelord
+	030
+		bio
+		bionic
+		bioboomer
+		bioboomerang
+		bionicboomer
+		bionicboomerang
+	040
+		tcharge
+		t-charge
+		turbo
+		turbocharge
+		turbo-charge
+	050
+		pcharge
+		p-charge
+		permacharge
+		perma-charge
+	003
+		kylie
+		kylieboomer
+		kylieboomerang
+		rohan
+		rohanspibo
+		rohans.a
+		rohans.a.
+		rohan_spibo
+        rohan-spibo
+	004
+		press
+		moabpress
+		m.o.a.bpress
+		m.o.a.b.press
+	005
+		dom
+		domination
+		moabdom
+		moabdomination
+		m.o.a.bdom
+		m.o.a.bdomination
+		m.o.a.b.dom
+		m.o.a.b.domination
+BombShooter
+	400
+		impact
+		bloonimpact
+	500
+		crush
+		crunch
+		blooncrush
+		blooncrunch
+	030
+		mauler
+		moabmauler
+        m.o.a.bmauler
+		m.o.a.b.mauler
+		goldshark
+		goldenshark
+		yellowshark
+	040
+		assassin
+		moabassassin
+        m.o.a.bassassin
+		m.o.a.b.assassin
+	050
+		elim
+		eliminator
+		moabelim
+        m.o.a.belim
+		m.o.a.b.elim
+		moabeliminator
+        m.o.a.beliminator
+		m.o.a.b.eliminator
+	002
+		frag
+		frags
+	003
+		cluster
+		clusterbomb
+		clusterbombs
+	004
+		recurse
+		recursive
+		recursivebomb
+		recursivebombs
+		recursivecluster
+		recursiveclusters
+	005
+		blitz
+		bombblitz
+TackShooter
+	400
+		rof
+		r.o.f
+		r.o.f.
+		ringoffire
+		firering
+	500
+		ir
+		i.r
+		i.r.
+		inferno
+		infernoring
+	030
+		blades
+		bladeshooter
+	040
+		mael
+		maelstrom
+		maelstorm
+		blademael
+		blademaelstrom
+		blademaelstorm
+	050
+		smael
+		s-mael
+		smaelstrom
+		s-maelstrom
+		smaelstorm
+		s-maelstorm
+		supermael
+		supermaelstrom
+		supermaelstorm
+	003
+		sprayer
+		tacksprayer
+	004
+		overd
+		overdrive
+	005
+		zone
+		tackzone
+		thetackzone
+		deadzone
+		deathzone
+IceMonkey
+	100
+		pfrost
+		p-frost
+		permafrost
+		perma-frost
+	300
+		shard
+		shards
+		iceshards
+	500
+		brittle
+		sbrittle
+		s-brittle
+		superbrittle
+	030
+		aw
+		a.w
+		a.w.
+		awman
+		awind
+		arcticwind
+	040
+		snowstorm
+	050
+		az
+		a.z
+		a.z.
+		a0
+		a.0
+		a.0.
+		absolutezero
+	003
+		cryo
+		icecannon
+		cryocannon
+	004
+		icicle
+		icicles
+	005
+		impale
+		iceimpale
+		icicleimpale
+GlueGunner
+	200
+		corrosive
+		corrosiveglue
+	300
+		dissolver
+		bloondissolver
+	400
+		liquifier
+		bloonliquifier
+	500
+		solver
+		bloonsolver
+		thebloonsolver
+	020
+		splatter
+		gluesplatter
+	030
+		hose
+		ghose
+		g-hose
+		gluehose
+	040
+		gstrike
+		g-strike
+		gluestrike
+	050
+		gstorm
+		g-storm
+		gluestorm
+	003
+		moabglue
+		blimpglue
+	004
+		relentless
+		relentlessglue
+	005
+		sglue
+		s-glue
+		superglue
+		superglue
+		super-glue
+SniperMonkey
+	100
+		fullmetal
+		fullmetaljacket
+	200
+		largecaliber
+		pointfiveoh
+		pointfive-oh
+	300
+		precision
+		deadlyprecision
+	400
+		maim
+		maimmoab
+		maimm.o.a.b
+		maimm.o.a.b.
+	500
+		cripple
+		cripplemoab
+		cripplem.o.a.b
+		cripplem.o.a.b.
+	010
+		nightvision
+		nightvisiongoggles
+		camosniper
+	030
+		bouncing
+		bouncingbullet
+		bouncingbullets
+	040
+		supplydrop
+		cashcrate
+	050
+		elitesniper
+		elitetarget
+		elitetargeting
+	003
+		semi
+		semiauto
+		semi-auto
+		semiautorifle
+		semi-autorifle
+	004
+		fullauto
+		full-auto
+		fullautorifle
+		full-autorifle
+	005
+		ed
+		e.d
+		e.d.
+		edefender
+		e-defender
+		elitedefender
+    015
+        dumbfender
+        dumb-fender
+        dumbdefender
+        dumb-defender
+MonkeySub
+	200
+		intel
+		advancedintel
+		intelrange
+	300
+		s&s
+		s.&.s
+		s.&.s.
+		sands
+		s.ands
+		s.ands.
+		s-and-s
+		s.-and-s
+		s.-and-s.
+		submerge
+		submerge&support
+		submergeandsupport
+	400
+		reactor
+		reactorsub
+		nuclearreactor
+		suclearsub
+		bloontoniumreactor
+	500
+		energizer
+		energizersub
+	030
+		ballistic
+		ballisticmissile
+	040
+		fs
+		f.s
+		f.s.
+		fsc
+		f.s.c
+		f.s.c.
+		firststrike
+		firststrikecapability
+	050
+		pre
+		preemp
+		pre-emp
+		preempt
+		pre-empt
+		preemptive
+		pre-emptive
+		preemptivestrike
+		pre-emptivestrike
+	002
+		airburst
+		airburstdart
+		airburstdarts
+	003
+		tripgun
+		tripguns
+		triplegun
+		tripleguns
+	004
+		ap
+		a.p
+		a.p.
+		apdart
+		a.pdart
+		a.p.dart
+		apdarts
+		a.pdarts
+		a.p.darts
+		armorpiercing
+		armor-piercing
+		armourpiercing
+		armour-piercing
+		armorpiercingdart
+		armorpiercingdarts
+		armor-piercingdart
+		armor-piercingdarts
+		armourpiercingdart
+		armourpiercingdarts
+		armour-piercingdart
+		armour-piercingdarts
+	005
+		scom
+		scomm
+		s-com
+		s-comm
+		subcomm
+		sub-comm
+		subcommander
+MonkeyBuccaneer
+	300
+		destroyer
+	400
+		carrier
+		aircraftcarrier
+	500
+		flagship
+		flagshipcarrier
+		carrierflagship
+	010
+		grape
+		grapes
+		grapeshot
+	030
+		cannonship
+	040
+		pirate
+		pirates
+		monkeypirate
+		monkeypirates
+	050
+		plord
+		p-lord
+		piratelord
+	003
+		merchant
+		merchantman
+		merchantmen
+	004
+		favored
+		flavored
+		favoured
+		favoredtrade
+		flavoredtrade
+		favouredtrade
+		favoredtrades
+		flavoredtrades
+		favouredtrades
+	005
+		empire
+		tradeempire
+MonkeyAce
+	300
+		fighter
+		fighterace
+		fighterplane
+		fighterjet
+	400
+		ods
+		o.d.s
+		o.d.s.
+		dartstorm
+		operationdartstorm
+		operation:dartstorm
+	500
+		shredder
+		sshredder
+		s-shredder
+		skyshredder
+	030
+		bomber
+		bomberace
+		bomberplane
+	040
+		gz
+		g.z
+		g.z.
+		g0
+		g.0
+		g.0.
+		ground0
+		groundzero
+	050
+		tsar
+		tsarbomba
+		tsarbomber
+	003
+		neva
+		nevamiss
+		neva-miss
+		nevamisstargeting
+		neva-misstargeting
+		never
+		nevermiss
+		never-miss
+		nevermisstargeting
+		never-misstargeting
+	004
+		spectre
+	005
+		bigplane
+		fortress
+		ffortress
+		f-fortress
+		flyingfortress
+HeliPilot
+	100
+		quad
+		quaddart
+		quaddarts
+	200
+		pursuit
+	300
+		razor
+		razer
+		razorrotor
+		razerrotor
+		razorrotors
+		razerrotors
+	400
+		dartship
+		apachedart
+		apachedartship
+	500
+		prime
+		apacheprime
+	030
+		downdraft
+	040
+		chinook
+		supportchnook
+	050
+		marine
+		marinegang
+		poperation
+		poperations
+		specialpoperation
+		specialpoperations
+	003
+		shove
+		moabshove
+		m.o.a.bshove
+		m.o.a.b.shove
+	004
+		defense
+		defence
+		comdefense
+		comdefence
+		commdefense
+		commdefence
+		comanchedefense
+		comanchedefence
+		commanchedefense
+		commanchedefence
+	005
+		comanche
+		comcommander
+		commcommander
+		comanchecommander
+		commanchecommander
+		worsttower
+		worsttowerever
+		worsttoweringame
+		worsttowereveringame
+		worsttowerinthegame
+		worsttowereverinthegame
+		theworsttowerever
+		theworsttowereveringame
+		theworsttowereverinthegame
+MortarMonkey
+	400
+		bo4
+		b.o.4
+		b.o.4.
+		bigone
+		thebigone
+	500
+		tb1
+		t.b.1
+		t.b.1.
+		tbo
+		t.b.o
+		t.b.o.
+		bo5
+		b.o.5
+		b.o.5.
+		biggestone
+		thebiggestone
+	040
+		artillery
+		artillerybattery
+		battery
+	050
+		p&a
+		p.&.a
+		p.&.a.
+		paa
+		p.a.a
+		p.a.a.
+		pop&awe
+		popandawe
+	003
+		signal
+		signalflare
+		signalflair
+	004
+		shat
+		shatter
+		shattering
+		shatteringshell
+		shatteringshells
+	005
+		cin
+		blooncin
+		blooncineration
+WizardMonkey
+	300
+		mastery
+		arcanemaster
+		arcanemastery
+	400
+		spike
+		arcanespike
+	500
+		arch
+		archmage
+	020
+		wof
+		w.o.f
+		w.o.f.
+		walloffire
+	030
+		dbreath
+		d-breath
+		dragonbreath
+		dragonsbreath
+		dragon’sbreath
+	040
+		phoenix
+		summonphoenix
+	050
+		wlp
+		w.l.p
+		w.l.p.
+		wizardlord
+		wizardlordphoenix
+		caw
+		cawcaw
+		2tcaw
+		skybird
+	003
+		shimmer
+	004
+		necro
+		necromancer
+		unpoppedarmy
+		necromancerunpoppedarmy
+		necromancer:unpoppedarmy
+	005
+		pod
+		p.o.d
+		p.o.d.
+		princeofdarkness
+SuperMonkey
+	100
+		laser
+		laservision
+	200
+		plasmasuper
+		plasmavision
+	300
+		sav
+		avatar
+		savatar
+		sunavatar
+		sungod
+	400
+		temple
+		suntemple
+		templeofthemonkeygod
+	500
+		tsg
+		t.s.g
+		t.s.g.
+		vtsg
+		v.t.s.g
+		v.t.s.g.
+		truesungod
+		truesuntemple
+		vengefultemple
+		vengefultruesungod
+	030
+		robo
+		robomonkey
+		robo-monkey
+    032
+        isab
+        isabmonkey
+        isab-monkey
+        isabtower
+        isab-tower
+        isabsuper
+        isab-super
+	040
+		tt
+		t.t
+		t.t.
+		techterror
+		technologicalterror
+	050
+		anti
+		antibloon
+		anti-bloon
+		theantibloon
+		theanti-bloon
+	001
+		knockback
+		knockbacksuper
+	003
+		batman
+		darkknight
+		thedarkknight
+		thedarkknightrises
+		benaffleck
+		brucewayne
+	004
+		dc
+		d.c
+		d.c.
+		champ
+		darkchamp
+	005
+		lotn
+		l.o.t.n
+		l.o.t.n.
+		legend
+		legendofthenight
+NinjaMonkey
+	400
+		jitsu
+		bloonjitsu
+	500
+		gm
+		g.m
+		g.m.
+		gmninj
+		g.mninj
+		g.m.ninj
+		gmninja
+		g.mninja
+		g.m.ninja
+		grandmaster
+		grand-master
+		grandmasterninj
+		grandmasterninja
+		grand-masterninj
+		grand-masterninja
+	030
+		shinobi
+		shinobitactic
+		shinobitactics
+	040
+		sabo
+		sabotage
+		bloonsabo
+		bloonsabotage
+		sabotagesupplylines
+	050
+		gsabo
+		g-sabo
+		grandsabo
+		grandsaboteur
+	002
+		caltrop
+		caltrops
+	003
+		flash
+		flashbomb
+		flashbombs
+	004
+		sticky
+		stickybomb
+		stickybombs
+	005
+		mb
+		m.b
+		m.b.
+		mbomb
+		m-bomb
+		mbomber
+		m-bomber
+		masterbomber
 Alchemist
-    200
-        amd
-        a.m.d.
-        acidic mixture dip
-        acidic mixture drip
-    300
-        alch buff
-        berserker
-        berserker brew
-    400
-        sstim
-        s-stim
-        stronger stim
-        stronger stimulant
-    500
-        pbrew
-        p-brew
-        permabrew
-        perma-brew
-        permanent brew
-    030
-        coc
-        conc
-        concoc
-        concoct
-        concoction
-        unstable coc
-        unstable concoction
-    040
-        tt4
-        tonic
-        transforming tonic
-    050
-        tt5
-        transformation
-        total transformation
-    003
-        l2g
-        ltg
-        lead 2 gold
-        lead to gold
-    004
-        r2g
-        rtg
-        rubber 2 gold
-        rubber to gold
-    005
-        bma
-        bloon master alch
-        bloon master alchemist
+	200
+		amd
+		a.m.d
+		a.m.d.
+		acidicmixturedip
+		acidicmixturedrip
+	300
+		alchbuff
+		berserker
+		berserkerbrew
+	400
+		sstim
+		s-stim
+		strongerstim
+		strongerstimulant
+	500
+		pbrew
+		p-brew
+		permabrew
+		perma-brew
+		permanentbrew
+	030
+		coc
+		conc
+		concoc
+		concoct
+		concoction
+		unstablecoc
+		unstableconcoction
+	040
+		tt4
+		t.t.4
+		t.t.4.
+		tonic
+		transformingtonic
+	050
+		tt5
+		t.t.5
+		t.t.5.
+		transformation
+		totaltransformation
+	003
+		l2g
+		l.2.g
+		l.2.g.
+		ltg
+		l.t.g
+		l.t.g.
+		lead2gold
+		leadtogold
+	004
+		r2g
+		r.2.g
+		r.2.g.
+		rtg
+		r.t.g
+		r.t.g.
+		rubber2gold
+		rubbertogold
+	005
+		bma
+		b.m.a
+		b.m.a.
+		bloonmasteralch
+		bloonmasteralchemist
 Druid
-    100
-        hard thorn
-        hard thorns
-    200
-        thunder
-        heart of thunder
-        lightning
-    300
-        tornado
-        tornado druid
-        druid of the storm
-    400
-        ball
-        ball lightning
-    500
-        superstorm
-        super-storm
-    010
-        thorn swarm
-    030
-        vine
-        vine druid
-        druid of jungle
-        druid of the jungle
-    040
-        bounty
-        jungle bounty
-        jungles bounty
-        jungle’s bounty
-        farm druid
-    050
-        sotf
-        s.o.t.f.
-        spirit
-        spirit of the forest
-    002
-        hov
-        h.o.v.
-        heart of vengeance
-    003
-        wrath druid
-        druid of wrath
-    004
-        lust
-        poplust
-        populist
-    005
-        aow
-        a.o.w.
-        avatar of wrath
-Banana Farm
-    300
-        plantation
-        banana plantation
-    400
-        brf
-        b.r.f.
-        facility
-        factory
-        banana research facility
-    500
-        central
-        banana central
-    020
-        valuable banana
-        valuable bananas
-    030
-        bank
-        monkey bank
-    040
-        imf
-        i.m.f.
-        imf loan
-        i.m.f. loan
-    050
-        nomic
-        nomics
-        monkeynomic
-        monkeynomics
-        monkey-nomic
-        monkey-nomics
-    003
-        market
-        marketplace
-    004
-        central market
-        central marketplace
-    005
-        wall street
-        monkey wall street
-Spike Factory
-    300
-        spiked ball
-        spiked balls
-        spike ball
-        spike balls
-    400
-        spiked mine
-        spiked mines
-        spike mine
-        spiked mines
-    500
-        super mine
-        super mines
-    030
-        shredr
-        moab shredr
-        m.o.a.b. shredr
-        moab shredder
-        m.o.a.b. shredder
-    040
-        sstorm
-        s-storm
-        spike storm
-    050
-        cos
-        c.o.s.
-        carpet
-        carpet of spike
-        carpet of spikes
-    004
-        deadly spike
-        deadly spikes
-    005
-        pspike
-        p-spike
-        permaspike
-        perma-spike
-        permanent spike
-        jajajosh notice me
-        josh’s constant
-Monkey Village
-    200
-        drum
-        drums
-        bongo
-        bongos
-        bongos
-        jungle drum
-        jungle drums
-        monkey bongo
-        monkey bongos
-    300
-        training
-        primary training
-    400
-        mentoring
-        primary mentoring
-    500
-        expertise
-        primary ex
-        primary expert
-        primary expertise
-    020
-        radar
-        radar scanner
-        camo village
-    030
-        mib
-        m.i.b.
-        monkey intelligence
-        monkey intelligence bureau
-        monkeys in black
-    040
-        c2a
-        cta
-        call to arms
-    050
-        homeland
-        homeland defense
-    001
-        discount village
-    002
-        double discount
-    003
-        town
-        monkey town
-    004
-        free dart
-        free darts
-        city
-        monkey city
-    005
-        opolis
-        monkeyopolis
-        monkey-opolis
-Engineer Monkey
-    100
-        sentry
-        sentries
-    300
-        sprocket
-        sprockets
-    400
-        expert
-        sentry expert
-    500
-        paragon
-        paragon sentry
-        paragon sentries
-        sentry paragon
-    030
-        foam
-        cleansing foam
-        sticky white substance
-    040
-        oc
-        o.c.
-        overclock
-        ss tier
-    050
-        ub
-        u.b.
-        uboost
-        u-boost
-        ultraboost
-        ultra-boost
-    002
-        pin
-    004
-        trap
-        bloon trap
-    005
-        xxl
-        xxxl
-        xxl trap
-        xxl-trap
-        xxxl trap
-        xxxl-trap
+	100
+		hardthorn
+		hardthorns
+	200
+		thunder
+		heartofthunder
+		lightning
+	300
+		tornado
+		tornadodruid
+		druidofthestorm
+	400
+		ball
+		balllightning
+	500
+		superstorm
+		super-storm
+	010
+		thornswarm
+	030
+		vine
+		vinedruid
+		druidofjungle
+		druidofthejungle
+	040
+		bounty
+		junglebounty
+		junglesbounty
+		jungle’sbounty
+		farmdruid
+	050
+		sotf
+		s.o.t.f
+		s.o.t.f.
+		spirit
+		spiritoftheforest
+	002
+		hov
+		h.o.v
+		h.o.v.
+		heartofvengeance
+	003
+		wrathdruid
+		druidofwrath
+	004
+		lust
+		poplust
+		populist
+	005
+		aow
+		a.o.w
+		a.o.w.
+		avatarofwrath
+BananaFarm
+	300
+		plantation
+		bananaplantation
+	400
+		brf
+		b.r.f
+		b.r.f.
+		facility
+		factory
+		bananaresearchfacility
+	500
+		central
+		bananacentral
+	020
+		valuablebanana
+		valuablebananas
+	030
+		bank
+		monkeybank
+	040
+		imf
+		i.m.f
+		i.m.f.
+		imfloan
+		i.m.f
+		i.m.f.loan
+	050
+		nomic
+		nomics
+		monkeynomic
+		monkeynomics
+		monkey-nomic
+		monkey-nomics
+	003
+		market
+		marketplace
+	004
+		centralmarket
+		centralmarketplace
+	005
+		wallstreet
+		monkeywallstreet
+SpikeFactory
+	300
+		spikedball
+		spikedballs
+		spikeball
+		spikeballs
+	400
+		spikedmine
+		spikedmines
+		spikemine
+		spikedmines
+	500
+		supermine
+		supermines
+	030
+		shredr
+		moabshredr
+		m.o.a.b
+		m.o.a.b.shredr
+		moabshredder
+		m.o.a.b
+		m.o.a.b.shredder
+	040
+		sstorm
+		s-storm
+		spikestorm
+	050
+		cos
+		c.o.s
+		c.o.s.
+		carpet
+		carpetofspike
+		carpetofspikes
+	004
+		deadlyspike
+		deadlyspikes
+	005
+		pspike
+		p-spike
+		permaspike
+		perma-spike
+		permanentspike
+		jajajoshnoticeme
+		josh’sconstant
+		besttower
+		besttowerever
+		besttoweringame
+		besttowereveringame
+		besttowerinthegame
+		besttowereverinthegame
+		thebesttowerever
+		thebesttowereveringame
+		thebesttowereverinthegame
+MonkeyVillage
+	200
+		drum
+		drums
+		bongo
+		bongos
+		jungledrum
+		jungledrums
+		monkeybongo
+		monkeybongos
+	300
+		training
+		primarytraining
+	400
+		mentoring
+		primarymentoring
+	500
+		expertise
+		primaryex
+		primaryexpert
+		primaryexpertise
+	020
+		radar
+		radarscanner
+		camovillage
+	030
+		mib
+		m.i.b
+		m.i.b.
+		monkeyintelligence
+		monkeyintelligencebureau
+		monkeysinblack
+	040
+		c2a
+		c.2.a
+		c.2.a.
+		cta
+		c.t.a
+		c.t.a.
+		calltoarms
+	050
+		homeland
+		homelanddefense
+	001
+		discount
+		discountvillage
+	002
+		doublediscount
+		doublediscountvillage
+	003
+		town
+		monkeytown
+	004
+		freedart
+		freedarts
+		city
+		monkeycity
+	005
+		opolis
+		monkeyop
+		monkey-op
+		monkeyops
+		monkey-ops
+		monkeyopolis
+		monkey-opolis
+EngineerMonkey
+	100
+		sentry
+		sentries
+	300
+		sprocket
+		sprockets
+	400
+		expert
+		sentryexpert
+	500
+		paragon
+		paragonsentry
+		paragonsentries
+		sentryparagon
+	030
+		foam
+		cleansingfoam
+		stickywhitesubstance
+	040
+		oc
+		o.c
+		o.c.
+		overclock
+		sstier
+	050
+		ub
+		u.b
+		u.b.
+		uboost
+		u-boost
+		ultraboost
+		ultra-boost
+	002
+		pin
+	004
+		trap
+		bloontrap
+	005
+		xxl
+		xxxl
+		xxltrap
+		xxl-trap
+		xxxltrap
+		xxxl-trap
