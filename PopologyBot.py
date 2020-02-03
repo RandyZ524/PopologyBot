@@ -184,13 +184,13 @@ def process_comment(comment, match):
         tower = tower.strip()
 
         if not tower[-3:].isdigit():
-            official, upgrades = get_official_upgrades(tower.lower())
+            official, upgrades = get_official_upgrades(tower.lower().replace(' ', ''))
         else:
             if len(re.findall(r'[1-5]', tower[-3:])) > 2 or len(re.findall(r'[3-5]', tower[-3:])) > 1:
                 print('\t' + tower + " cannot be parsed because of invalid upgrades")
                 continue
 
-            official = parse_tower(tower[:-3].lower().strip())
+            official = parse_tower(tower[:-3].lower().strip().replace(' ', ''))
             upgrades = list(tower[-3:])
 
         if not official:

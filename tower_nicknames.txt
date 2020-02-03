@@ -1,151 +1,151 @@
-Dart Monkey
+DartMonkey
     dart
-    dart monkey
-    dart tower
-Boomerang Monkey
+    dartmonkey
+    darttower
+BoomerangMonkey
     boomer
     boomerang
-    boomer monkey
-    boomer tower
-    boomerang monkey
-    boomerang tower
-    boomerang thrower
-Bomb Shooter
+    boomermonkey
+    boomertower
+    boomerangmonkey
+    boomerangtower
+    boomerangthrower
+BombShooter
     bomb
     cannon
-    bomb tower
-    cannon tower
-    bomb shooter
-    cannon shooter
-Tack Shooter
+    bombtower
+    cannontower
+    bombshooter
+    cannonshooter
+TackShooter
     tack
-    tack tower
-    tack shooter
-Ice Monkey
+    tacktower
+    tackshooter
+IceMonkey
     ice
-    ice monkey
-    ice tower
-Glue Gunner
+    icemonkey
+    icetower
+GlueGunner
     glue
-    glue monkey
-    glue tower
-    glue shooter
-    glue gunner
-Sniper Monkey
+    gluemonkey
+    gluetower
+    glueshooter
+    gluegunner
+SniperMonkey
     sniper
-    sniper monkey
-    sniper tower
-Monkey Sub
+    snipermonkey
+    snipertower
+MonkeySub
     sub
-    monkey sub
-    sub monkey
-    sub tower
+    monkeysub
+    submonkey
+    subtower
     submarine
-    monkey submarine
-    submarine monkey
-    submarine tower
-Monkey Buccaneer
+    monkeysubmarine
+    submarinemonkey
+    submarinetower
+MonkeyBuccaneer
     bucc
-    monkey bucc
-    bucc monkey
-    bucc tower
+    monkeybucc
+    buccmonkey
+    bucctower
     buccaneer
-    monkey buccaneer
-    buccaneer monkey
-    buccaneer tower
+    monkeybuccaneer
+    buccaneermonkey
+    buccaneertower
     boat
-    monkey boat
-    boat monkey
-    boat tower
-Monkey Ace
+    monkeyboat
+    boatmonkey
+    boattower
+MonkeyAce
     ace
-    monkey ace
-    ace monkey
-    ace tower
+    monkeyace
+    acemonkey
+    acetower
     plane
-    monkey plane
-    plane monkey
-    plane tower
-Heli Pilot
+    monkeyplane
+    planemonkey
+    planetower
+HeliPilot
     heli
-    heli pilot
-    monkey heli
-    heli monkey
-    heli tower
+    helipilot
+    monkeyheli
+    helimonkey
+    helitower
     helicopter
-    helicopter pilot
-    monkey helicopter
-    helicopter monkey
-    helicopter tower
-Mortar Monkey
+    helicopterpilot
+    monkeyhelicopter
+    helicoptermonkey
+    helicoptertower
+MortarMonkey
     mortar
-    mortar monkey
-    mortar tower
-Wizard Monkey
+    mortarmonkey
+    mortartower
+WizardMonkey
     wiz
-    monkey wiz
-    wiz monkey
-    wiz tower
+    monkeywiz
+    wizmonkey
+    wiztower
     wizard
-    monkey wizard
-    wizard monkey
-    wizard tower
+    monkeywizard
+    wizardmonkey
+    wizardtower
     apprentice
-    monkey apprentice
-    apprentice monkey
-    apprentice tower
-Super Monkey
+    monkeyapprentice
+    apprenticemonkey
+    apprenticetower
+SuperMonkey
     super
-    super monkey
-    super tower
-Ninja Monkey
+    supermonkey
+    supertower
+NinjaMonkey
     ninja
-    ninja monkey
-    ninja tower
+    ninjamonkey
+    ninjatower
     ninj
-    ninj monkey
-    ninj tower
+    ninjmonkey
+    ninjtower
 Alchemist
     alch
-    alch monkey
-    alch tower
+    alchmonkey
+    alchtower
     alchemist
-    alchemist monkey
-    alchemist tower
+    alchemistmonkey
+    alchemisttower
 Druid
     druid
-    druid monkey
-    druid tower
-Banana Farm
+    druidmonkey
+    druidtower
+BananaFarm
     farm
-    banana farm
-Spike Factory
+    bananafarm
+SpikeFactory
     spac
     spact
     spactory
     spike
-    spike factory
-Monkey Village
+    spikefactory
+MonkeyVillage
     village
-    monkey village
-    village monkey
-    village tower
-    monkey vill
-    vill monkey
-    vill tower
-Engineer Monkey
+    monkeyvillage
+    villagemonkey
+    villagetower
+    monkeyvill
+    villmonkey
+    villtower
+EngineerMonkey
     engineer
-    monkey engineer
-    engineer monkey
-    engineer tower
+    monkeyengineer
+    engineermonkey
+    engineertower
     engi
-    monkey engi
-    engi monkey
-    engi tower
+    monkeyengi
+    engimonkey
+    engitower
     eng
-    monkey eng
-    eng monkey
-    eng tower
+    monkeyeng
+    engmonkey
+    engtower
 Quincy
     quincy
     quincey
@@ -154,71 +154,71 @@ Quincy
     quonce
     quoncy
     quonk
-    big quonc
-    huge quonc
-    son of quincy
-    father of quincy
-    evolved from quincy
-    ancestor of quincy
-    descendant of quincy
-    for quincy you are and to quincy you shall return
-    cyber quincy
-    furry quincy
+    bigquonc
+    hugequonc
+    sonofquincy
+    fatherofquincy
+    evolvedfromquincy
+    ancestorofquincy
+    descendantofquincy
+    forquincyyouareandtoquincyyoushallreturn
+    cyberquincy
+    furryquincy
 Gwendolin
     gwen
     gwendolin
     gwendolyn
-Striker Jones
+StrikerJones
     striker
     jones
-    striker jones
+    strikerjones
     biker
     bones
-    biker bones
+    bikerbones
     who?
-Obyn Greenfoot
+ObynGreenfoot
     obyn
-    obyn greenfoot
+    obyngreenfoot
     ocyn
-    ocyn obyn
-    ocyn aquafoot
-Captain Churchill
+    ocynobyn
+    ocynaquafoot
+CaptainChurchill
     churchill
     church
-    captain churchill
-    capt churchill
-    capt. churchill
-    captain church
-    capt church
-    capt. church
+    captainchurchill
+    captchurchill
+    capt.churchill
+    captainchurch
+    captchurch
+    capt.church
     captain
-    winston churchill
+    winstonchurchill
     winston
 Benjamin
     benjamin
     ben
     benny
-    benny boy
-    best hero
+    bennyboy
+    besthero
     benjammin
     benjammin'
     yeet
 Ezili
     ezili
     voodoo
-    voodoo monkey
-Pat Fusty
+    voodoomonkey
+PatFusty
     pat
-    pat fusty
-    pat futsy
+    patfusty
+    patfutsy
     snowman
-    fusty the snowman
+    fustythesnowman
     frosty
-    pat frosty
+    patfrosty
     fusticator
 Adora
     adora
     dora
     door
     priestess
-    high priestess
+    highpriestess
