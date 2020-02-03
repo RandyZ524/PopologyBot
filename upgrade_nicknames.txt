@@ -11,6 +11,8 @@ Dart Monkey
         juggernaut
     500
         uj
+		u.j
+		u.j.
         ujug
         u-jug
         ujugg
@@ -31,15 +33,27 @@ Dart Monkey
         triple shot
     040
         fc
+		f.c
+		f.c.
         smfc
+		s.m.f.c
+		s.m.f.c.
         fan club
         super monkey fc
+		super monkey f.c
+		super monkey f.c.
         super monkey fan club
     050
         pmfc
+		p.m.f.c
+		p.m.f.c.
         plasma fc
+		plasma f.c
+		plasma f.c.
         plasma fan club
         plasma monkey fc
+		plasma monkey f.c
+		plasma monkey f.c.
         plasma monkey fan club
     002
         camo dart
@@ -52,9 +66,17 @@ Dart Monkey
         sharp-shooter
     005
         xbm
+		x.b.m
+		x.b.m.
         cbm
+		c.b.m
+		c.b.m.
         xb master
+		x.b master
+		x.b. master
         cb master
+		c.b master
+		c.b. master
         xbow master
         crossbow master
 Boomerang Monkey
@@ -78,6 +100,8 @@ Boomerang Monkey
         m.o.a.r. glaives
     500
         gl
+		g.l
+		g.l.
         glord
         glaive lord
 Bomb Shooter
@@ -127,12 +151,14 @@ Bomb Shooter
 Tack Shooter
     400
         rof
+		r.o.f
         r.o.f.
         ring of fire
         fire ring
     500
         ir
-        i.r.
+		i.r
+		i.r.
         inferno
         inferno ring
     030
@@ -184,6 +210,8 @@ Ice Monkey
         super brittle
     030
         aw
+		a.w
+		a.w.
         aw man
         awind
         arctic wind
@@ -191,7 +219,11 @@ Ice Monkey
         snowstorm
     050
         az
+		a.z
+		a.z.
         a0
+		a.0
+		a.0.
         absolute zero
     003
         cryo
@@ -260,10 +292,12 @@ Sniper Monkey
     400
         maim
         maim moab
+		maim m.o.a.b
         maim m.o.a.b.
     500
         cripple
         cripple moab
+		cripple m.o.a.b
         cripple m.o.a.b
     010
         night vision
@@ -293,6 +327,8 @@ Sniper Monkey
         full-auto rifle
     005
         ed
+		e.d
+		e.d.
         e defender
         e-defender
         elite defender
@@ -303,8 +339,14 @@ Monkey Sub
         intel range
     300
         s&s
+		s.&.s
+		s.&.s.
         s and s
+		s. and s
+		s. and s.
         s-and-s
+		s.-and-s
+		s.-and-s.
         submerge
         submerge & support
         submerge and support
@@ -322,7 +364,11 @@ Monkey Sub
         ballistic missile
     040
         fs
+		f.s
+		f.s.
         fsc
+		f.s.c
+		f.s.c.
         first strike
         first strike capability
     050
@@ -346,8 +392,14 @@ Monkey Sub
         triple guns
     004
         ap
+		a.p
+		a.p.
         ap dart
+		a.p dart
+		a.p. dart
         ap darts
+		a.p darts
+		a.p. darts
         armor piercing
         armor-piercing
         armour piercing
@@ -418,6 +470,8 @@ Monkey Ace
         fighter jet
     400
         ods
+		o.d.s
+		o.d.s.
         dart storm
         operation dart storm
         operation: dart storm
@@ -432,7 +486,11 @@ Monkey Ace
         bomber plane
     040
         gz
+		g.z
+		g.z.
         g0
+		g.0
+		g.0.
         ground 0
         ground zero
     050
@@ -489,6 +547,7 @@ Heli Pilot
     003
         shove
         moab shove
+		m.o.a.b shove
         m.o.a.b. shove
     004
         defense
@@ -507,15 +566,32 @@ Heli Pilot
         comm commander
         comanche commander
         commanche commander
+		worst tower
+		worst tower ever
+		worst tower in game
+		worst tower ever in game
+		worst tower in the game
+		worst tower ever in the game
+		the worst tower ever
+		the worst tower ever in game
+		the worst tower ever in the game
 Mortar Monkey
     400
         bo4
+		b.o.4
+		b.o.4.
         big one
         the big one
     500
         tb1
+		t.b.1
+		t.b.1.
         tbo
+		t.b.o
+		t.b.o.
         bo5
+		b.o.5
+		b.o.5.
         biggest one
         the biggest one
     040
@@ -524,7 +600,11 @@ Mortar Monkey
         battery
     050
         p&a
+		p.&.a
+		p.&.a.
         paa
+		p.a.a
+		p.a.a.
         pop & awe
         pop and awe
     003
@@ -554,6 +634,7 @@ Wizard Monkey
         archmage
     020
         wof
+		w.o.f
         w.o.f.
         wall of fire
     030
@@ -567,6 +648,8 @@ Wizard Monkey
         summon phoenix
     050
         wlp
+		w.l.p
+		w.l.p.
         wizard lord
         wizard lord phoenix
         caw
@@ -583,6 +666,7 @@ Wizard Monkey
         necromancer: unpopped army
     005
         pod
+		p.o.d
         p.o.d.
         prince of darkness
 Super Monkey
@@ -604,8 +688,14 @@ Super Monkey
         temple of the monkey god
     500
         tsg
+		t.s.g
+		t.s.g.
         vtsg
+		v.t.s.g
+		v.t.s.g.
         true sun god
+		true sun temple
+		vengeful temple
         vengeful true sun god
     030
         robo
@@ -613,6 +703,8 @@ Super Monkey
         robo-monkey
     040
         tt
+		t.t
+		t.t.
         tech terror
         technological terror
     050
@@ -633,10 +725,13 @@ Super Monkey
         bruce wayne
     004
         dc
+		d.c
+		d.c.
         champ
         dark champ
     005
         lotn
+		l.o.t.n
         l.o.t.n.
         legend
         legend of the night
@@ -646,10 +741,19 @@ Ninja Monkey
         bloonjitsu
     500
         gm
+		g.m
+		g.m.
+		gm ninj
+		g.m ninj
+		g.m. ninj
         gm ninja
+		g.m ninja
+		g.m. ninja
         grandmaster
         grand-master
+		grandmaster ninj
         grandmaster ninja
+		grand-master ninj
         grand-master ninja
     030
         shinobi
@@ -679,6 +783,8 @@ Ninja Monkey
         sticky bombs
     005
         mb
+		m.b
+		m.b.
         mbomb
         m-bomb
         mbomber
@@ -687,6 +793,7 @@ Ninja Monkey
 Alchemist
     200
         amd
+		a.m.d
         a.m.d.
         acidic mixture dip
         acidic mixture drip
@@ -715,24 +822,38 @@ Alchemist
         unstable concoction
     040
         tt4
+		t.t.4
+		t.t.4.
         tonic
         transforming tonic
     050
         tt5
+		t.t.5
+		t.t.5.
         transformation
         total transformation
     003
         l2g
+		l.2.g
+		l.2.g.
         ltg
+		l.t.g
+		l.t.g.
         lead 2 gold
         lead to gold
     004
         r2g
+		r.2.g
+		r.2.g.
         rtg
+		r.t.g
+		r.t.g.
         rubber 2 gold
         rubber to gold
     005
         bma
+		b.m.a
+		b.m.a.
         bloon master alch
         bloon master alchemist
 Druid
@@ -768,11 +889,13 @@ Druid
         farm druid
     050
         sotf
+		s.o.t.f
         s.o.t.f.
         spirit
         spirit of the forest
     002
         hov
+		h.o.v
         h.o.v.
         heart of vengeance
     003
@@ -784,6 +907,7 @@ Druid
         populist
     005
         aow
+		a.o.w
         a.o.w.
         avatar of wrath
 Banana Farm
@@ -792,6 +916,7 @@ Banana Farm
         banana plantation
     400
         brf
+		b.r.f
         b.r.f.
         facility
         factory
@@ -807,8 +932,10 @@ Banana Farm
         monkey bank
     040
         imf
+		i.m.f
         i.m.f.
         imf loan
+		i.m.f
         i.m.f. loan
     050
         nomic
@@ -843,8 +970,10 @@ Spike Factory
     030
         shredr
         moab shredr
+		m.o.a.b
         m.o.a.b. shredr
         moab shredder
+		m.o.a.b
         m.o.a.b. shredder
     040
         sstorm
@@ -852,6 +981,7 @@ Spike Factory
         spike storm
     050
         cos
+		c.o.s
         c.o.s.
         carpet
         carpet of spike
@@ -867,6 +997,15 @@ Spike Factory
         permanent spike
         jajajosh notice me
         josh’s constant
+		best tower
+		best tower ever
+		best tower in game
+		best tower ever in game
+		best tower in the game
+		best tower ever in the game
+		the best tower ever
+		the best tower ever in game
+		the best tower ever in the game
 Monkey Village
     200
         drum
@@ -895,21 +1034,28 @@ Monkey Village
         camo village
     030
         mib
+		m.i.b
         m.i.b.
         monkey intelligence
         monkey intelligence bureau
         monkeys in black
     040
         c2a
+		c.2.a
+		c.2.a.
         cta
+		c.t.a
+		c.t.a.
         call to arms
     050
         homeland
         homeland defense
     001
+		discount
         discount village
     002
         double discount
+		double discount village
     003
         town
         monkey town
@@ -943,11 +1089,13 @@ Engineer Monkey
         sticky white substance
     040
         oc
+		o.c
         o.c.
         overclock
         ss tier
     050
         ub
+		u.b
         u.b.
         uboost
         u-boost
