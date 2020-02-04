@@ -1,8 +1,8 @@
-DartMonkey
+Dart Monkey
     dart
     dartmonkey
     darttower
-BoomerangMonkey
+Boomerang Monkey
     boomer
     boomerang
     boomermonkey
@@ -10,32 +10,32 @@ BoomerangMonkey
     boomerangmonkey
     boomerangtower
     boomerangthrower
-BombShooter
+Bomb Shooter
     bomb
     cannon
     bombtower
     cannontower
     bombshooter
     cannonshooter
-TackShooter
+Tack Shooter
     tack
     tacktower
     tackshooter
-IceMonkey
+Ice Monkey
     ice
     icemonkey
     icetower
-GlueGunner
+Glue Gunner
     glue
     gluemonkey
     gluetower
     glueshooter
     gluegunner
-SniperMonkey
+Sniper Monkey
     sniper
     snipermonkey
     snipertower
-MonkeySub
+Monkey Sub
     sub
     monkeysub
     submonkey
@@ -44,7 +44,7 @@ MonkeySub
     monkeysubmarine
     submarinemonkey
     submarinetower
-MonkeyBuccaneer
+Monkey Buccaneer
     bucc
     monkeybucc
     buccmonkey
@@ -57,7 +57,7 @@ MonkeyBuccaneer
     monkeyboat
     boatmonkey
     boattower
-MonkeyAce
+Monkey Ace
     ace
     monkeyace
     acemonkey
@@ -66,7 +66,7 @@ MonkeyAce
     monkeyplane
     planemonkey
     planetower
-HeliPilot
+Heli Pilot
     heli
     helipilot
     monkeyheli
@@ -77,11 +77,11 @@ HeliPilot
     monkeyhelicopter
     helicoptermonkey
     helicoptertower
-MortarMonkey
+Mortar Monkey
     mortar
     mortarmonkey
     mortartower
-WizardMonkey
+Wizard Monkey
     wiz
     monkeywiz
     wizmonkey
@@ -94,11 +94,11 @@ WizardMonkey
     monkeyapprentice
     apprenticemonkey
     apprenticetower
-SuperMonkey
+Super Monkey
     super
     supermonkey
     supertower
-NinjaMonkey
+Ninja Monkey
     ninja
     ninjamonkey
     ninjatower
@@ -116,16 +116,16 @@ Druid
     druid
     druidmonkey
     druidtower
-BananaFarm
+Banana Farm
     farm
     bananafarm
-SpikeFactory
+Spike Factory
     spac
     spact
     spactory
     spike
     spikefactory
-MonkeyVillage
+Monkey Village
     village
     monkeyvillage
     villagemonkey
@@ -133,7 +133,7 @@ MonkeyVillage
     monkeyvill
     villmonkey
     villtower
-EngineerMonkey
+Engineer Monkey
     engineer
     monkeyengineer
     engineermonkey
@@ -168,7 +168,7 @@ Gwendolin
     gwen
     gwendolin
     gwendolyn
-StrikerJones
+Striker Jones
     striker
     jones
     strikerjones
@@ -176,13 +176,13 @@ StrikerJones
     bones
     bikerbones
     who?
-ObynGreenfoot
+Obyn Greenfoot
     obyn
     obyngreenfoot
     ocyn
     ocynobyn
     ocynaquafoot
-CaptainChurchill
+Captain Churchill
     churchill
     church
     captainchurchill
@@ -207,7 +207,7 @@ Ezili
     ezili
     voodoo
     voodoomonkey
-PatFusty
+Pat Fusty
     pat
     patfusty
     patfutsy

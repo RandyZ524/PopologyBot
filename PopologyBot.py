@@ -1,5 +1,6 @@
 import praw
 import re
+import time
 
 popology_text = []
 file_path = "commented.txt"
@@ -21,17 +22,21 @@ def main():
     global official_to_upgrade_nicks
     global popology_to_tower
     reddit = authenticate()
-    subreddit = reddit.subreddit("test")
+    subreddit = reddit.subreddit("btd6")
     popology_text = get_popology_info(reddit)
     official_to_nicks = get_tower_nicks()
     official_to_upgrade_nicks = get_upgrade_nicks()
     popology_to_tower = get_tower_categories()
 
-    for comment in subreddit.comments(limit=250):
-        match = re.findall(r'(?<=\\?\[\\?\[).+?(?=\\?\]\\?\])', comment.body)
+    while True:
+        for comment in subreddit.comments(limit=50):
+            stripped_comment = comment.body.replace('\\', '')
+            match = re.findall(r'(?<=\[\[).+?(?=\]\])', stripped_comment)
 
-        if match:
-            process_comment(comment, match)
+            if match:
+                process_comment(comment, match)
+
+        time.sleep(30)
 
 
 def get_tower_categories():
@@ -181,13 +186,14 @@ def process_comment(comment, match):
     reply = ""
 
     for tower in match:
-        tower = tower.strip()
+        tower = tower.strip().replace('[', '').replace(']', '').replace('\\', '')
 
         if not tower[-3:].isdigit():
             official, upgrades = get_official_upgrades(tower.lower().replace(' ', ''))
         else:
             if len(re.findall(r'[1-5]', tower[-3:])) > 2 or len(re.findall(r'[3-5]', tower[-3:])) > 1:
                 print('\t' + tower + " cannot be parsed because of invalid upgrades")
+                update_old_comments(comment.id)
                 continue
 
             official = parse_tower(tower[:-3].lower().strip().replace(' ', ''))
@@ -195,6 +201,7 @@ def process_comment(comment, match):
 
         if not official:
             print('\t' + tower + " cannot be parsed")
+            update_old_comments(comment.id)
             continue
 
         print('\t' + tower + " is being parsed")
