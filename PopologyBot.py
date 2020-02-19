@@ -36,7 +36,7 @@ def main():
             if match:
                 process_comment(comment, match)
 
-        time.sleep(30)
+        time.sleep(5)
 
 
 def get_tower_categories():
@@ -188,35 +188,55 @@ def process_comment(comment, match):
     for tower in match:
         tower = tower.strip().replace('[', '').replace(']', '').replace('\\', '')
 
-        if not tower[-3:].isdigit():
-            official, upgrades = get_official_upgrades(tower.lower().replace(' ', ''))
+        if find_tower_category(parse_tower(tower)) != 4:
+            reply = reply + process_tower(tower, comment)
         else:
-            if len(re.findall(r'[1-5]', tower[-3:])) > 2 or len(re.findall(r'[3-5]', tower[-3:])) > 1:
-                print('\t' + tower + " cannot be parsed because of invalid upgrades")
-                update_old_comments(comment.id)
-                continue
-
-            official = parse_tower(tower[:-3].lower().strip().replace(' ', ''))
-            upgrades = list(tower[-3:])
-
-        if not official:
-            print('\t' + tower + " cannot be parsed")
-            update_old_comments(comment.id)
-            continue
-
-        print('\t' + tower + " is being parsed")
-        reply = reply + "## " + official + " (" + ''.join(upgrades) + ")\n"
-
-        for path, upgrade in enumerate(upgrades, start=0):
-            if int(upgrade) == 0:
-                continue
-
-            reply = reply + add_to_reply(upgrade, path, official)
+            print("hero")  # popology's broken right now, can't implement hero functionality rn
 
     if reply:
         print(reply)
-        comment.reply(reply.replace('\n', '\n\n'))
+        reply = reply + "\n***\n^Maintained ^by ^u/RandyZ524 ^| [^Info ^from ^Advanced ^Popology](" \
+                        "https://www.reddit.com/r/btd6/comments/atomg3/advanced_popology_vol_1_primary_towers/) ^| [" \
+                        "^Suggest ^a ^nickname](https://forms.gle/PtyM9Hf1kuYQvmpeA)"
+        reply = reply.replace('\n', '\n\n')
+        comment.reply(reply)
         update_old_comments(comment.id)
+
+
+def process_tower(tower, comment):
+    if not tower[-3:].isdigit():
+        official, upgrades = get_official_upgrades(tower.lower().replace(' ', ''))
+    else:
+        if len(re.findall(r'[1-5]', tower[-3:])) > 2 or len(re.findall(r'[3-5]', tower[-3:])) > 1:
+            cannot_parse(tower, "invalid upgrades", comment.id)
+            return ""
+
+        official = parse_tower(tower[:-3].lower().strip().replace(' ', ''))
+        upgrades = list(tower[-3:])
+
+    if not official:
+        cannot_parse(tower, "invalid name", comment.id)
+        return ""
+
+    print('\t' + tower + " is being parsed")
+    reply = "## " + official + " (" + ''.join(upgrades) + ")\n"
+    crosspathed = len(re.findall(r'[3-5]', tower[-3:])) == 1
+
+    for path, upgrade in enumerate(upgrades, start=0):
+        if int(upgrade) == 0:
+            continue
+
+        if crosspathed and int(upgrade) == 2:
+            reply = reply + add_to_reply(str(int(upgrade) - 1), path, official)
+
+        reply = reply + add_to_reply(upgrade, path, official)
+
+    return reply
+
+
+def cannot_parse(tower, because_of, comment_id):
+    print('\t' + tower + " cannot be parsed because of " + because_of)
+    update_old_comments(comment_id)
 
 
 if __name__ == "__main__":

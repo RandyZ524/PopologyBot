@@ -718,6 +718,7 @@ Wizard Monkey
         d-breath
         dragonbreath
         dragonsbreath
+        dragon'sbreath
         dragon’sbreath
     040
         phoenix
